@@ -1,0 +1,95 @@
+Date: 13/11/2024
+Time: 15:27
+Phone Number: +5511914268783
+Message: DATA: 11/11/2024  HORA: 13:15  
+--------------------
+Date: 13/11/2024
+Time: 15:31
+Phone Number: +5511914268783
+Message: DATA: 11/11/2024  HORA: 13:15  
+--------------------
+Date: 13/11/2024
+Time: 15:45
+Phone Number: +5511914268783
+Message: DATA: 11/11/2024  HORA: 13:15  
+--------------------
+Date: 13/11/2024
+Time: 15:47
+Phone Number: +5511960865543
+Message: DATA: 11/11/2024  HORA: 13:15  
+--------------------
+Date: 13/11/2024
+Time: 15:54
+Phone Number: +5511960865543
+Message: DATA: 11/11/2024  HORA: 13:15  
+--------------------
+Date: 13/11/2024
+Time: 15:58
+Phone Number: +5511960865543
+Message: DATA: 11/11/2024  HORA: 13:15  
+--------------------
+Date: 13/11/2024
+Time: 15:59
+Phone Number: +5511960865543
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:0
+Phone Number: +5511960865543
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:9
+Group ID: Hora do ponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:11
+Group ID: Hora do ponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:13
+Group ID: Hora do ponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:43
+Group ID: Hora do ponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:44
+Group ID: Hora do ponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:46
+Group ID: Hora do ponto
+Message: Olá
+--------------------
+Date: 13/11/2024
+Time: 16:47
+Group ID: Hora do ponto
+Message: Olá
+--------------------
+Date: 13/11/2024
+Time: 16:50
+Group ID: Horadoponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:50
+Group ID: Hora do ponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 16:53
+Group ID: Ponto
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------
+Date: 13/11/2024
+Time: 17:0
+Phone Number: +5511914268783
+Message: DATA: 08/11/2024  HORA: 07:08  
+--------------------

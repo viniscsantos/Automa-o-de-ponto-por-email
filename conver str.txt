@@ -1,0 +1,20 @@
+from datetime import datetime, timedelta
+
+# Exemplo de strings de horário
+time_str1 = "02:30:00"
+time_str2 = "01:45:00"
+
+# Converter strings para objetos de tempo
+time1 = datetime.strptime(time_str1, "%H:%M:%S")
+time2 = datetime.strptime(time_str2, "%H:%M:%S")
+
+# Calcular a diferença de tempo desde a meia-noite (para obter timedelta)
+delta1 = timedelta(hours=time1.hour, minutes=time1.minute, seconds=time1.second)
+delta2 = timedelta(hours=time2.hour, minutes=time2.minute, seconds=time2.second)
+
+# Somar os deltas de tempo
+total_delta = delta1 + delta2
+
+# Converter timedelta de volta para string no formato "HH:MM:SS"
+total_time_str = str(total_delta)
+print(f"Total Time: {total_time_str}")  # Saída: "04:15:00"
